@@ -1,0 +1,9 @@
+name: SniperBow
+version: 1.0
+main: me.johnnywoof.sniper.SniperBow
+author: Johnnywoof
+commands:
+ sniperbow:
+  description: Spawns a SniperBow
+  permission: sniperbow.spawn
+  usage: /sniperbow
